@@ -3,7 +3,9 @@ https://vandreys.github.io/FallenAngels/
 
 ## Sobre o Projeto
 
+Consiste em uma sinopse interativa de um dos meus filmes favoritos chamado “Fallen Angels (1995)”, dirigido pelo Wong Kar Wai e com fotografia do Christopher Doyle.
 
+Desenvolvi usando HTML, CSS e JavaScript, sendo um layout totalmente responsivo que garante uma boa experiência de usuário em todos os dispositivos.
 
 ## Layout Web
 
