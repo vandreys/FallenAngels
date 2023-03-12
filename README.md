@@ -9,15 +9,16 @@ Desenvolvi usando HTML, CSS e JavaScript, sendo um layout totalmente responsivo 
 
 ## Layout Web
 
-![fallenalgens 1](https://user-images.githubusercontent.com/109192128/224523600-b5b0f256-2ae4-47db-ad31-e7d32d795898.jpg)
+![fallenalgens 1](https://user-images.githubusercontent.com/109192128/224537003-0d26fd6f-8632-4c4e-bab0-238fabac225d.jpg)
 
 ## Layot Tablet
 
-![fallenalgens 2](https://user-images.githubusercontent.com/109192128/224523599-4e89c24f-d531-4370-ad54-0b56a79bf9db.jpg)
+![fallenalgens 2](https://user-images.githubusercontent.com/109192128/224537002-dfc5ccda-888b-4581-a4ea-88a22523b87c.jpg)
+
 
 ## Layot Mobile
 
-![fallenangels 3](https://user-images.githubusercontent.com/109192128/224523601-7e492f79-ef4f-4d32-a2df-c3c78d4e2962.jpg)
+![fallenangels 3](https://user-images.githubusercontent.com/109192128/224537001-00685843-ccb9-429a-a7bc-885eddffadf4.jpg)
 
 
 ### Front-end
